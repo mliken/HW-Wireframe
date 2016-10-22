@@ -11,7 +11,7 @@ body {
 .headerbox {
   text-align: center;
   background-color: #ebebeb;
-  width: 100%;
+  width: 920px;
   padding: 10px;
   margin: 10px;
   border: 10px;
@@ -20,7 +20,7 @@ body {
 .navbox {
   text-align: center;
   background-color: #ebebeb;
-  width: 100%;
+  width: 920px;
   padding: 10px;
   margin: 10px;
   border: 10px;
@@ -38,7 +38,7 @@ body {
 }
 .articlebox {
   text-align: center;
-  background-color: red;
+  background-color: #777;
   width: 400px;
   padding: 10px;
   margin: 10px;
@@ -47,7 +47,7 @@ body {
 }
 .htitlebox {
   text-align: center;
-  background-color: green;
+  background-color: #ebebeb;
   width: 350px;
   padding: 10px;
   margin: 10px;
@@ -55,7 +55,7 @@ body {
 }
 .pbox {
   text-align: center;
-  background-color: blue;
+  background-color: #ebebeb;
   width: 350px;
   padding: 10px;
   margin: 10px;
@@ -75,7 +75,7 @@ body {
   clear: both;
   text-align: center;
   background-color: #ebebeb;
-  width: 100%;
+  width: 920px;
   padding: 10px;
   margin: auto;
   border: 10px;
